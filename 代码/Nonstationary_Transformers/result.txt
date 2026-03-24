@@ -1,0 +1,6 @@
+LondonBike_96_24_ns_Transformer_custom_ftMS_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_'Exp'_0  
+mse:0.05887545272707939, mae:0.12114015221595764
+
+LondonBike_96_24_ns_Transformer_custom_ftMS_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_'Exp'_0  
+mse:0.06122969463467598, mae:0.12450326234102249
+

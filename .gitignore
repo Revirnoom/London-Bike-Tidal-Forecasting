@@ -1,0 +1,73 @@
+# =============================================
+# Python
+# =============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# =============================================
+# Large Raw Datasets (5GB+, not suitable for Git)
+# =============================================
+数据集/
+处理后的数据集/
+
+# =============================================
+# Model Checkpoints & Training Artifacts
+# =============================================
+*.pth
+*.npy
+*.ts
+代码/Time_Series_Library/checkpoints/
+代码/Time_Series_Library/results/
+代码/Time_Series_Library/test_results/
+代码/Time_Series_Library/dataset/
+代码/Nonstationary_Transformers/checkpoints/
+代码/Nonstationary_Transformers/results/
+代码/Nonstationary_Transformers/test_results/
+代码/Nonstationary_Transformers/dataset/
+
+# =============================================
+# Course Documents (not source code)
+# =============================================
+*.pptx
+*.docx
+*.pdf
+*.zip
+
+# =============================================
+# Large Interactive HTML Maps (generated outputs)
+# =============================================
+输出结果/figures/*.html
+
+# =============================================
+# Duplicate / Nested Archive Folder
+# =============================================
+数据挖掘课程设计/
+
+# =============================================
+# IDE & OS
+# =============================================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# =============================================
+# Jupyter Notebook
+# =============================================
+.ipynb_checkpoints/
+
+# =============================================
+# Virtual Environment
+# =============================================
+venv/
+env/
+.env/
